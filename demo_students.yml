@@ -1,0 +1,40 @@
+- name: Patricia Johnson
+  username: pjohnson
+  email: patricia.johnson@mail.utoronto.ca
+  studentid: '1002214335'
+- name: William Williams
+  username: wwilliam
+  email: william.williams@mail.utoronto.ca
+  studentid: '1034128546'
+- name: Patricia Miller
+  username: pmiller2
+  email: patricia.miller@mail.utoronto.ca
+  studentid: '1079236481'
+- name: Elizabeth Brown
+  username: ebrown3
+  email: elizabeth.brown@mail.utoronto.ca
+  studentid: '1075265775'
+- name: Linda Garcia
+  username: lgarcia0
+  email: linda.garcia@mail.utoronto.ca
+  studentid: '1082270757'
+- name: William Smith
+  username: wsmith6
+  email: william.smith@mail.utoronto.ca
+  studentid: '1029144316'
+- name: Robert Smith
+  username: rsmith1
+  email: robert.smith@mail.utoronto.ca
+  studentid: '1047226207'
+- name: James Williams
+  username: jwilliam
+  email: james.williams@mail.utoronto.ca
+  studentid: '1058463134'
+- name: Mary Johnson
+  username: mjohnson
+  email: mary.johnson@mail.utoronto.ca
+  studentid: '1082450560'
+- name: Jennifer Williams
+  username: jwilliam
+  email: jennifer.williams@mail.utoronto.ca
+  studentid: '1097214443'

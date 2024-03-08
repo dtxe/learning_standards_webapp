@@ -1,0 +1,18 @@
+- key: ch0-COM-angle
+  tags: [ch0, webwork]
+  description: 'Given the matrix form \(A \vec x = \vec b\) where \(\vec b\) is a vector in \(\bbR^2\) or \(\bbR^3\), I can visualize a particular solution for \(\vec x\) in terms of writing \( \vec b \) as a linear combination of the columns of \(A\).'
+- key: ch0-CON-vecline
+  tags: []
+  description: ''
+- key: ch0-CON-parline
+  tags: []
+  description: ''
+- key: ch0-VG-line
+  tags: []
+  description: ''
+- key: ch0-CON-plane
+  tags: []
+  description: ''
+- key: ch0-VG-plane
+  tags: []
+  description: ''
